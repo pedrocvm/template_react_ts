@@ -7,4 +7,4 @@ describe('The Home Page', () => {
   });
 });
 
-export {};
+export {}
